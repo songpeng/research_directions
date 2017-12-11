@@ -1,0 +1,5 @@
+#+TITLE: Drug target prediction
+
+* Papers
+** Reviews
++ [[file:./papers/The_target_landscape_of_clinical_kinase_drugs.pdf][The target landscape of clinical kinase drugs]]
