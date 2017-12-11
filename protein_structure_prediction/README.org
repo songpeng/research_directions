@@ -1,7 +1,7 @@
 #+TITLE: Protein structure prediction
 
 
-* papers
+* Papers
 ** Reviews
 + [[file:./papers/abinitio_protein_structure_prediction_2017.pdf][Ab Initio Protein Structure Prediction]]
 + [[file:./papers/Big-data approaches to protein structure prediction.pdf][Big-data approaches to protein structure prediction]]

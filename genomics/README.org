@@ -1,0 +1,6 @@
+#+TITLE: Genomics
+
+* Papers
+** Reviews
++ [[file:./papers/The_language_of_genes_Searls2002.pdf][The language of genes]]
++ [[file:./papers/genomics_and_nlp_2002.pdf][Genomics and Natural lauguage processing]]
